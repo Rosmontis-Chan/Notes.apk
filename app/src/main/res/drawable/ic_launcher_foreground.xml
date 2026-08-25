@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notepad card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,25 C29.79,25 28,26.79 28,29 L28,79 C28,81.21 29.79,83 32,83 L76,83 C78.21,83 80,81.21 80,79 L80,39 L66,25 L32,25 Z" />
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M66,25 L66,39 L80,39 Z" />
+    <!-- Notepad lines -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M36,44 L60,44 A2,2 0 0,1 60,48 L36,48 A2,2 0 0,1 36,44 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M36,54 L72,54 A2,2 0 0,1 72,58 L36,58 A2,2 0 0,1 36,54 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M36,64 L64,64 A2,2 0 0,1 64,68 L36,68 A2,2 0 0,1 36,64 Z" />
+    <!-- Glowing pen accent -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,60 L78,68 L82,64 L74,56 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M68,72 L72,70 L67,65 Z" />
+</vector>

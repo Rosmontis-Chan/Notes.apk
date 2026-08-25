@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Lite",
+  "description": "Aplikasi catatan super ringan, cepat, dan indah dengan Room Database, kategori warna, pencarian instan, dan pin catatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
